@@ -20,7 +20,8 @@ body {
   }
   
   .logo img {
-    height: 150px;
+    height: 80px;
+    border-radius: 50%;
      /* Adjust logo size */
   }
   
